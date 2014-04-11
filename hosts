@@ -1,0 +1,30 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+
+116.213.72.67 redmine.zinchchina.com
+116.213.72.78 jenkins.zinchchina.com
+116.213.72.69 beta1.zinch.cn
+
+#mamp server
+127.0.0.1  dev.gbtimes.local
+127.0.0.1  cn.zhidao.local
+127.0.0.1  cn.zinch.local
+
+## brew server
+127.0.0.1  zhidao-nginx.local
+127.0.0.1  drupalcom3-nginx.local
+127.0.0.1  zinch-nginx.local
+127.0.0.1  sub.local
+
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+
+
+
